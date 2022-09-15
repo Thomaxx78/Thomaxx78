@@ -8,7 +8,7 @@
 - :hammer: Actuellement sur un projet d'application.. :hammer:
 - :bricks: entrain de perfectionner mes connaissances js et php :bricks:
 
-
+<h3 align="left">Besoin de me contacter:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/filholthomas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/filholthomas/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19275216/thomaxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19275216/thomaxx" height="30" width="40" /></a>
