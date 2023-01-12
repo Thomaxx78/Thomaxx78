@@ -1,4 +1,4 @@
-### Hi there 👋, Moi c'est Filhol Thomas
+### Hi there 👋, Moi c'est Thomas Filhol
 
 
 <h2> Bienvenue sur mon profil, voici quelques infos sur moi:</h2>
