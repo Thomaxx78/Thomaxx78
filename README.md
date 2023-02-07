@@ -8,6 +8,10 @@
 - :hammer: Actuellement sur un projet d'application.. :hammer:
 - :bricks: entrain de perfectionner mes connaissances js et php :bricks:
 
+<h3> Projets: </h3>
+<p>DevLabProjetBack : Delimovie est un projet scolaire à plusieurs, mon rôle était développeur front-end. Le site est en pure TAILWIND CSS utilisant différentes librairies notamment "flickity" pour les sliders.</p>
+<p>  </p>
+
 <h4> Mon Portfolio: https://filholthomas.com/ </h4>
 
 <h3 align="left">Besoin de me contacter:</h3>
