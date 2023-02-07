@@ -14,7 +14,7 @@
 <p>DevLabProjetBack : Delimovie est un projet scolaire à plusieurs, mon rôle était développeur front-end. Le site est en pure TAILWIND CSS utilisant différentes librairies notamment "flickity" pour les sliders. <br> Lien du site: https://brevin-renaud.com/delimovie/</p>
 <p>  </p>
 
-<h4> <h2>Mon Portfolio:</h2> https://filholthomas.com/ </h4>
+<h4>Mon Portfolio:</h4> <p>https://filholthomas.com/</p>
 
 <h3 align="left">Besoin de me contacter:</h3>
 <p align="left">
