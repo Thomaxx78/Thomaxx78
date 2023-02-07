@@ -9,6 +9,7 @@
 - :bricks: entrain de perfectionner mes connaissances js et php :bricks:
 
 <h3> Projets: </h3>
+<p> Pokedex API : Pour ce site, je devais faire la partie front-end d'un pokedex en utilisant l'API pokeapi. Ce projet m'a permis de m'améliorer dans ma façon d'utiliser les API mais aussi d'avori créer plusieurs Event (clavier, click,..)<br> Lien du site: https://filholthomas.com/pokedex/
 <p> MonExpertPropreté : Mon Expert Prôpreté est un projet scolaire avec de vrai clients. Nous étions des équipes avec différents rôles (ux/ui designer, marketing, développeur-frontend, développeur-backend). Mon rôle dans cette dernière était développeur front-end. Ce projet m'a permit de découvrir comment fonctionne une équipe en entreprise dans la vie de tout les jours. Le client était plus que satisfait! Site en TAILWIND CSS. <br> Lien du site: https://brevin-renaud.com/monexpertproprete/ </p>
 <p>DevLabProjetBack : Delimovie est un projet scolaire à plusieurs, mon rôle était développeur front-end. Le site est en pure TAILWIND CSS utilisant différentes librairies notamment "flickity" pour les sliders. <br> Lien du site: https://brevin-renaud.com/delimovie/</p>
 <p>  </p>
